@@ -1,5 +1,3 @@
-
-
 def call() {
     node {
         stage('NPM Install') {
